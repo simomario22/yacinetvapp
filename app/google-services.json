@@ -1,0 +1,523 @@
+{
+    "project_info": {
+        "project_number": "820333427517",
+        "firebase_url": "https://nexpay-1888c-default-rtdb.firebaseio.com",
+        "project_id": "nexpay-1888c",
+        "storage_bucket": "nexpay-1888c.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:0b3179eb1ade0627a1e354",
+                "android_client_info": {
+                    "package_name": "cn.bloodbank.bloodbank"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-pb71t5jpsb2d9v6snt9fbrs309ebrrg3.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "cn.bloodbank.bloodbank",
+                        "certificate_hash": "de763318084d28179f9c03605ded3a7e5190deec"
+                    }
+                },
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:f6af6285eee386efa1e354",
+                "android_client_info": {
+                    "package_name": "cn.mpesa.m_pesa"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-1tq2s9ipujqvm49u86fu4q4cesbmfk2f.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "cn.mpesa.m_pesa",
+                        "certificate_hash": "de763318084d28179f9c03605ded3a7e5190deec"
+                    }
+                },
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:f9016b7fccc39ed0a1e354",
+                "android_client_info": {
+                    "package_name": "cn.reallivevideocallchat.reallivevideocallchat"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:5156a98408b86774a1e354",
+                "android_client_info": {
+                    "package_name": "cn.tclmarte.tclmarte"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:721fd7acbb2c1000a1e354",
+                "android_client_info": {
+                    "package_name": "cn.tclmicrofinance.tclfinan"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:8966ddaaa77c4952a1e354",
+                "android_client_info": {
+                    "package_name": "cn.weza.weza"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:6fbed6f7f0aa20c6a1e354",
+                "android_client_info": {
+                    "package_name": "com.app.cineyatv"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-vijt9g1dch6v9p6vrv73st3masjnadga.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.app.cineyatv",
+                        "certificate_hash": "de763318084d28179f9c03605ded3a7e5190deec"
+                    }
+                },
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:d60001ab8274f5bfa1e354",
+                "android_client_info": {
+                    "package_name": "com.hotels.hotels"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:93a204ebaa8b55a8a1e354",
+                "android_client_info": {
+                    "package_name": "com.lct.instagram.downloader"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:a60ab5b6e482f593a1e354",
+                "android_client_info": {
+                    "package_name": "com.lendwise.lendwise"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:ab662e41ac15a251a1e354",
+                "android_client_info": {
+                    "package_name": "com.nexpay.nexpay"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-lq5ls4gjnpif4k9nto5kcj4as9ema23t.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.nexpay.nexpay",
+                        "certificate_hash": "62de65da9f218675905c97118f068dc99b7ad513"
+                    }
+                },
+                {
+                    "client_id": "820333427517-p6q86mrefmbq3n2910ibgr6fmt1cdlru.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.nexpay.nexpay",
+                        "certificate_hash": "de763318084d28179f9c03605ded3a7e5190deec"
+                    }
+                },
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:aa975bc7f2fac790a1e354",
+                "android_client_info": {
+                    "package_name": "com.paymoney.paymoney"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:201f9d157807ba3ca1e354",
+                "android_client_info": {
+                    "package_name": "com.tclpay.tclke"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:5d8eb2d1c66603d6a1e354",
+                "android_client_info": {
+                    "package_name": "com.webnavpro.webnavpro"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:d80878a992903974a1e354",
+                "android_client_info": {
+                    "package_name": "com.yacine.yacinetv"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-75139p9me59171fsn9qs8bhc5ber2i6h.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.yacine.yacinetv",
+                        "certificate_hash": "de763318084d28179f9c03605ded3a7e5190deec"
+                    }
+                },
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:820333427517:android:59de569d0d98aca1a1e354",
+                "android_client_info": {
+                    "package_name": "com.ytv.ytv"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "820333427517-7cb6gv384i37966ov6ql85c430kajr8v.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-Lt7c39bWeV7hgImmk7k5lmoV6R8eb5M"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "820333427517-46ujf5qmfhkam8hhkpc52uq5705k6lns.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

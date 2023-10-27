@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fcm_notification_topic">yacinelivetv_topic</string>
+    <string name="one_signal_app_id">ab066393-8cb9-4fe8-b167-24133139c90f</string>
+</resources>
